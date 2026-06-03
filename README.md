@@ -35,7 +35,7 @@ I had designed another USB 2.0 hub with the same chip before, but I did not have
 # BOM
 
 | Part name | Quantity | Price | Product Link |
-
+|--------------------------------------------------|----------|----------------|------|
 | SL2.A USB HUB IC | 5 | $1.40 | [Link](https://www.aliexpress.com/item/1005005552905296.html) |
 
 | USB A Female Port | 10 | $5.68 | [Link](https://www.aliexpress.com/item/1005010243685669.html) |
